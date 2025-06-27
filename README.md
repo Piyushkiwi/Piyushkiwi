@@ -15,6 +15,7 @@ Email Me 👉 ✉️ **piyushkr157366@gmail.com** For Collaboration/Project or A
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:piyushkr157366@gmail.com) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/<Kiwi157366>/)
 
 
 <!-- Snake Game Repo View -->
