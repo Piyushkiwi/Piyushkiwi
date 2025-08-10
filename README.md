@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **piyushkr157366@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 I’m currently working on : Eduserv :A platform for school's to interact and organize student activity.
+- 🔭 I’m currently working on : VisionAI: An image to text conversion mobile application.
 - 🌱 **I’m currently learning:** React
 - 📫 **How to reach me:** piyushkr157366@gmail.com
 - 😄 **Pronouns:** Piyush
